@@ -3,10 +3,13 @@
 </p>
 
 ```yaml
-👨‍💻 About_Me:
-  Full_Name: Rahul
-  Current_Role: Software Engineer at Meesho 🛍️
-  Alma_Mater: IIITDM Jabalpur (IIITDMJ) 🎓
-  Location: Bengaluru, India 📍
-  Focus_Areas: [Backend Engineering, Scalable Systems, Distributed Systems]
-  Motto: "Building scalable tech solutions to power e-commerce for Bharat."
+engineer:
+  name: Rahul
+  role: Software Engineer @ Meesho 🛍️
+  alma_mater: IIITDM Jabalpur 🎓
+  location: Bengaluru, India 📍
+
+systems:
+  focus: [ "Backend Engineering", "Distributed Systems", "Scalable Architecture" ]
+  stack: [ "Java", "Spring Boot", "Python", "MySQL", "Docker" ]
+  mission: "Engineering high-throughput systems to power e-commerce for Bharat 🚀"
