@@ -1,66 +1,62 @@
-<h1 align="left" id="rahul-title">:wave: Hello there! I'm Rahul</h1>
+<h1 align="left" id="rahul-title">👋 Hi, I'm Rahul</h1>
 <h3 align="left">Software Engineer @ Meesho | Distributed Systems & Backend Tech</h3>
 
 <p align="left">
-  <a href="https://github.com/rahul-meesho8">
-    <img src="https://komarev.com/ghpvc/?username=rahul-meesho8&color=blue" alt="page views" />
-  </a>
-  <img alt="Location" src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-blue?style=flat&logo=googlemaps&logoColor=white">
+  <img src="https://komarev.com/ghpvc/?username=rahul-meesho8&color=ff416c&style=flat-square" alt="profile views" />
+  <img alt="Location" src="https://img.shields.io/badge/Bengaluru%2C%20India-121212?style=flat-square&logo=googlemaps&logoColor=white">
+  <img alt="Education" src="https://img.shields.io/badge/IIITDM%20Jabalpur-121212?style=flat-square&logo=education&logoColor=white">
 </p>
 
-<a href="#rahul-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-meesho8&show_icons=true&theme=dark&count_private=true" alt="Rahul's Stats" align="right" height="185" />
-</a>
+---
 
-- :office: &nbsp;I'm currently working as a **Software Engineer at Meesho**
-- :mortar_board: &nbsp;Proud alumnus of **IIITDM Jabalpur (IIITDMJ)**
-- :seedling: &nbsp;Focused on building **high-throughput distributed backends** and scalable commerce tech
-- :speech_balloon: &nbsp;I love to discuss system optimization, database scaling, and clean architecture
-- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/rahul-dev07/)**
+### 💻 Professional Profile
 
-<br>
+- 🏢 **Current Role:** Software Engineer at **Meesho**, engineering high-throughput backend services to power e-commerce for Bharat.
+- 🎓 **Education:** Proud alumnus of **IIITDM Jabalpur (IIITDMJ)**.
+- 🚀 **Focus Areas:** Distributed Systems, Backend Architecture, and High-Availability Microservices.
+- 💬 **Interests:** Deep-diving into system optimization, database scaling strategies, and clean architecture patterns.
+- 💻 **Connect:** [LinkedIn](https://www.linkedin.com/)
 
-<h2 align="left" id="tech-ecosystem">Favorite Tech Stack</h2>
+---
 
-> Tools, languages, and frameworks that I engineer with day-to-day.
+### 🛠️ Tech Stack & Ecosystem
+
+> Tools, languages, and frameworks I engineer with day-to-day.
 
 <table>
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-      <br>Java
+      <br><sub><b>Java</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" />
-      <br>Spring Boot
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
+      <br><sub><b>Spring Boot</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br>Python
+      <br><sub><b>Python</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-      <br>MySQL
+      <br><sub><b>MySQL</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
-      <br>Redis
+      <br><sub><b>Redis</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-      <br>Docker
+      <br><sub><b>Docker</b></sub>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-<h2 align="left">Ecosystem Insights</h2>
+### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-meesho8&layout=compact&theme=dark" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-meesho8&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Rahul's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-meesho8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
 </p>
-
-### 🕹️ Git Contribution Activity
-
-![Snake animation](https://github.com/rahul-meesho8/rahul-meesho8/blob/output/github-contribution-grid-snake.svg)
