@@ -53,10 +53,3 @@
 </table>
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-meesho8&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Rahul's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-meesho8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
-</p>
